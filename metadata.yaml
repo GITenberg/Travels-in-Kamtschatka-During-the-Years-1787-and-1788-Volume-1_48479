@@ -1,4 +1,8 @@
 _repo: Travels-in-Kamtschatka-During-the-Years-1787-and-1788-Volume-1_48479
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48479-h/images/cover.jpg
 creator:
   author:
     agent_name: Lesseps, Jean-Baptiste-Barthélemy de
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44816
     wikipedia: http://en.wikipedia.org/wiki/Barth%C3%A9lemy_de_Lesseps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48479#Travels-in-Kamtschatka-During-the-Years-1787-and-1788-Volume-1
 gutenberg_issued: '2015-03-13'
 gutenberg_type: Text
 identifiers:
